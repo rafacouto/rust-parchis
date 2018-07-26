@@ -1,0 +1,6 @@
+[package]
+name = "parchis"
+version = "0.1.0"
+authors = ["Rafa Couto <caligari@treboada.net>"]
+
+[dependencies]
